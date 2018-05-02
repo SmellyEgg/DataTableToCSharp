@@ -36,12 +36,12 @@ namespace dataTableToCSharp
 
         private string GenerateClassObject(string tableName)
         {
-            //List<tableContent> listtableContent = this.GetTableContentObjects(tableName);
-            System.Threading.Thread.Sleep(2000);
-            List<tableContent> listtableContent = new List<tableContent>();
-            listtableContent.Add(new tableContent() { ColumnName = "name", DataType = "varchar2", Comment = "我是注释" });
-            listtableContent.Add(new tableContent() { ColumnName = "id", DataType = "int", Comment = "我是注释" });
-            listtableContent.Add(new tableContent() { ColumnName = "birthday", DataType = "date", Comment = "我是注释" });
+            List<tableContent> listtableContent = this.GetTableContentObjects(tableName);
+            //System.Threading.Thread.Sleep(2000);
+            //List<tableContent> listtableContent = new List<tableContent>();
+            //listtableContent.Add(new tableContent() { ColumnName = "name", DataType = "varchar2", Comment = "我是注释" });
+            //listtableContent.Add(new tableContent() { ColumnName = "id", DataType = "int", Comment = "我是注释" });
+            //listtableContent.Add(new tableContent() { ColumnName = "birthday", DataType = "date", Comment = "我是注释" });
 
             StringBuilder sbClass = new StringBuilder(5000);
             //添加类名
