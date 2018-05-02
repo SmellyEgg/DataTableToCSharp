@@ -85,6 +85,7 @@
             this.prgData.Name = "prgData";
             this.prgData.Size = new System.Drawing.Size(628, 23);
             this.prgData.TabIndex = 6;
+            this.prgData.Visible = false;
             // 
             // Form1
             // 
