@@ -1,0 +1,2 @@
+# DataTableToCSharp
+从oracle读取表结构以及注释生成类字符串
