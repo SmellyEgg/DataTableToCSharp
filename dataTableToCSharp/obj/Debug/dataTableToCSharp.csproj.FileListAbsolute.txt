@@ -1,0 +1,10 @@
+D:\users\choujidan\source\repos\dataTableToCSharp\dataTableToCSharp\obj\Debug\dataTableToCSharp.csprojResolveAssemblyReference.cache
+D:\users\choujidan\source\repos\dataTableToCSharp\dataTableToCSharp\obj\Debug\dataTableToCSharp.Form1.resources
+D:\users\choujidan\source\repos\dataTableToCSharp\dataTableToCSharp\obj\Debug\dataTableToCSharp.Properties.Resources.resources
+D:\users\choujidan\source\repos\dataTableToCSharp\dataTableToCSharp\obj\Debug\dataTableToCSharp.csproj.GenerateResource.cache
+D:\users\choujidan\source\repos\dataTableToCSharp\dataTableToCSharp\obj\Debug\dataTableToCSharp.csproj.CoreCompileInputs.cache
+D:\users\choujidan\source\repos\dataTableToCSharp\dataTableToCSharp\bin\Debug\dataTableToCSharp.exe.config
+D:\users\choujidan\source\repos\dataTableToCSharp\dataTableToCSharp\bin\Debug\dataTableToCSharp.exe
+D:\users\choujidan\source\repos\dataTableToCSharp\dataTableToCSharp\bin\Debug\dataTableToCSharp.pdb
+D:\users\choujidan\source\repos\dataTableToCSharp\dataTableToCSharp\obj\Debug\dataTableToCSharp.exe
+D:\users\choujidan\source\repos\dataTableToCSharp\dataTableToCSharp\obj\Debug\dataTableToCSharp.pdb
